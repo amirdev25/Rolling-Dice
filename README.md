@@ -10,4 +10,5 @@ Sharti: 2 ta player bo'ladi, o'yin player1 dan boshlanadi, "ROLL DICE" tugmasi b
 
 # Images
 ![photo_2022-05-21_14-23-44](https://user-images.githubusercontent.com/99003321/169645101-6bdf51ad-02ce-4fb4-b5fd-38c9f974ef1c.jpg)
-![photo_2022-05-21_14-23-44](https://user-images.githubusercontent.com/99003321/169645103-6bb598d7-61e9-4109-b3b2-6c8a1f3f21c3.jpg)
+
+![photo_2022-05-21_14-23-34](https://user-images.githubusercontent.com/99003321/169645110-2d86d61d-e744-4ab0-a21e-e9f06e8b195c.jpg)
