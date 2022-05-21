@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rolling Dice</string>
+    <string name="player_1">Player 1</string>
+    <string name="roll_dice">ROLL DICE</string>
+    <string name="hold">HOLD</string>
+    <string name="new_game">New Game</string>
+    <string name="player_2">Player 2</string>
+</resources>
